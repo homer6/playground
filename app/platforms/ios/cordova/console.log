@@ -1,0 +1,11 @@
+2014-07-06 22:24:32.619 Playground[82553:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-06 22:24:32.763 Playground[82553:70b] Unlimited access to network resources
+2014-07-06 22:24:32.766 Playground[82553:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-06 22:24:33.949 Playground[82553:70b] Resetting plugins due to page load.
+2014-07-06 22:24:34.070 Playground[82553:70b] Finished load of: file:///Users/jjaramillo/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7E34863F-0DF5-4B51-A17A-2AA438BDBC57/Playground.app/www/index.html
